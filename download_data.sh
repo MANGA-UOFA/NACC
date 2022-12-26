@@ -1,5 +1,5 @@
 #!/bin/bash
-NACC_data_link=https://drive.google.com/drive/folders/1LNIs6Qf1Ojvb-QYhgzYlTKv97Z_EQif9
+NACC_data_link=https://drive.google.com/drive/folders/1C4JqimTOI1IDlYeHOE-6AxgUsRgnlw6k
 gdown --folder $NACC_data_link
 unzip gigaword_10.zip
 unzip gigaword_13.zip
